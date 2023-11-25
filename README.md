@@ -9,8 +9,8 @@
 ---
 
 ### :man_technologist: About Me :
-I am a program learner <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from China.
-- :telescope: I don`t really have a accurate direction, so I wanna try every interesting pragram. Actually I left nothing in my repo, really shame. 😭
+I am a programer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from China.
+- :telescope: I am working about network protocol and L2/L3 network equipment software developing. 
 
 - :seedling: Exploring Technical Content Writing.
 
